@@ -72,7 +72,7 @@ Recommended on Pydroid 3 for Android or desktop Python.
 
 
 
-snake game.py
+python main.py
 
 3. Enjoy the game!
 
